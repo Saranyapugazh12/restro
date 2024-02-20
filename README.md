@@ -1,11 +1,7 @@
-# restro
-Restaurant Application website
+# Restaurant Menu Application
 
+Food Menu with Details
 
-Order for Saranya's Restaurant
+This is tech food company which displays food items with price
 
-
-
-thanks!!
-
-
+edited 
